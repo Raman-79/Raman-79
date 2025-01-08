@@ -3,29 +3,32 @@
 Welcome to my GitHub profile! I'm a passionate developer with a love for coding and technology. Here's a little bit about me:
 
 ## 🔭 What I'm Currently Working On
-- [Project Name](link): Brief description of the project.
-- [Another Project](link): Brief description of another project.
+- **[RepoGPT](link)**: A Next.js application that allows users to interact with their GitHub repositories using AI-powered insights. Integrated with Cloudflare Workers AI and Google’s embedding model for context-aware functionality.
+- **[StreamHive](link)**: A video streaming application showcasing system design concepts, including video chunking, transcoding with Ffmpeg, and adaptive bitrate streaming using HLS.
 
 ## 🌱 What I'm Learning
-- Exploring [Technology/Framework] to enhance my skills.
-- Diving into [Another Technology/Framework] to broaden my knowledge.
+- Exploring **Rust** to enhance my systems programming skills.
+- Diving deeper into **Microservices Architecture** and **GraphQL** to build scalable and efficient backend systems.
 
 ## 💬 Ask Me About
-- [Topic 1]: Brief description of your expertise in this area.
-- [Topic 2]: Brief description of your expertise in this area.
+- **Frontend Development**: Proficient in ReactJS, TypeScript, and state management with Redux.
+- **Backend Development**: Experienced in building robust APIs with Node.js, Express.js, and integrating databases like PostgreSQL and MongoDB.
+- **DevOps**: Skilled in Docker, AWS, and Redis for optimizing application performance and deployment.
 
 ## 📫 How to Reach Me
-- Email: [your-email@example.com](mailto:your-email@example.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- Twitter: [@your-twitter-handle](https://twitter.com/your-twitter-handle)
+- **Email**: [singhraman0283@gmail.com](mailto:singhraman0283@gmail.com)
+- **LinkedIn**: [Raman Singh](https://www.linkedin.com/in/your-profile)
+- **LeetCode**: [Raman's LeetCode Profile](https://leetcode.com/your-profile)
 
 ## ⚡ Fun Fact
-- Share a fun or interesting fact about yourself.
+- I once optimized an application's performance by 55% just by implementing best practices in state management and navigation!
 
 ## 🛠️ Technologies & Tools
-- Languages: [List of programming languages you use]
-- Frameworks: [List of frameworks you use]
-- Tools: [List of tools you use]
+- **Languages**: JavaScript, TypeScript, Rust, Java, Python, SQL.
+- **Frontend Frameworks**: ReactJS, React Native.
+- **Backend Frameworks**: Node.js, Express.js, Spring.
+- **Databases**: PostgreSQL, MongoDB, MySQL.
+- **Tools & Technologies**: Git, Docker, AWS, Redis, ORM, Bitbucket, RESTful API, GraphQL, OAuth.
 
 ## 📈 GitHub Stats
 ![Raman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raman-79&show_icons=true&theme=radical)
@@ -36,4 +39,4 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 ## 📊 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raman-79&layout=compact&theme=radical)
 
-Thank you for visiting my profile! Feel free to connect and collaborate.
+Thank you for visiting my profile! Feel free to connect and collaborate. Let's build something amazing together! 🚀
